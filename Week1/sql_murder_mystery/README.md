@@ -15,7 +15,7 @@ The goal of this assignment was to practice SQL by solving a murder mystery.
 ## How to Run This Assignment
 ### 1. Clone this repository
 ```
-git clone <https://github.com/ashleyadehart/sql_murder_mystery>
+git clone <https://github.com/ashleyadehart/DataAnalysisModule3.git>
 ```
 
 ### 2. Create a virtual environment
